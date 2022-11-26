@@ -1,32 +1,114 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>https://wangjoel.github.io/posts/</loc>
-    <lastmod>2022-11-24T11:58:14+00:00</lastmod>
-  </url><url>
-    <loc>https://wangjoel.github.io/tags/</loc>
-    <lastmod>2022-11-24T11:58:14+00:00</lastmod>
-  </url><url>
-    <loc>https://wangjoel.github.io/</loc>
-    <lastmod>2022-11-24T11:58:14+00:00</lastmod>
-  </url><url>
-    <loc>https://wangjoel.github.io/posts/%E7%AE%80%E5%8E%86/</loc>
-    <lastmod>2022-11-24T11:58:14+00:00</lastmod>
-  </url><url>
-    <loc>https://wangjoel.github.io/tags/%E5%BC%80%E6%9C%97/</loc>
-    <lastmod>2022-11-24T11:58:14+00:00</lastmod>
-  </url><url>
-    <loc>https://wangjoel.github.io/tags/%E6%B4%BB%E6%B3%BC/</loc>
-    <lastmod>2022-11-24T11:58:14+00:00</lastmod>
-  </url><url>
-    <loc>https://wangjoel.github.io/tags/%E7%83%AD%E6%83%85/</loc>
-    <lastmod>2022-11-24T11:58:14+00:00</lastmod>
-  </url><url>
-    <loc>https://wangjoel.github.io/author/</loc>
-  </url><url>
-    <loc>https://wangjoel.github.io/categories/</loc>
-  </url><url>
-    <loc>https://wangjoel.github.io/series/</loc>
-  </url>
+  
+    <url>
+      <loc>https://wangjoel.github.io/posts/</loc>
+      
+      <lastmod>2022-11-24T11:58:14+00:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://wangjoel.github.io/tags/</loc>
+      
+      <lastmod>2022-11-24T11:58:14+00:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://wangjoel.github.io/</loc>
+      
+      <lastmod>2022-11-24T11:58:14+00:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://wangjoel.github.io/2022/curriculumvitae/</loc>
+      
+      <lastmod>2022-11-24T11:58:14+00:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://wangjoel.github.io/tags/%E5%BC%80%E6%9C%97/</loc>
+      
+      <lastmod>2022-11-24T11:58:14+00:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://wangjoel.github.io/tags/%E6%B4%BB%E6%B3%BC/</loc>
+      
+      <lastmod>2022-11-24T11:58:14+00:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://wangjoel.github.io/tags/%E7%83%AD%E6%83%85/</loc>
+      
+      <lastmod>2022-11-24T11:58:14+00:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://wangjoel.github.io/categories/</loc>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
+  
 </urlset>
